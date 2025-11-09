@@ -23,7 +23,7 @@ layout:
 Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
 
 {% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](../basics/editor.md) section to learn more.
+Explore our project documentation sections to learn more about xreatLabs team projects and their features.
 {% endhint %}
 
 ### Import

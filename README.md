@@ -18,9 +18,9 @@ layout:
 
 # Welcome
 
-Welcome to the GitBook starter template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+Welcome to the xreatLabs team documentation! This is a comprehensive documentation hub for all projects developed by the xreatLabs team.
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+Explore our projects and their documentation to learn more about our tools and services.
 
 ### Jump right in
 

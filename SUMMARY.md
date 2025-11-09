@@ -7,10 +7,13 @@
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
-## Basics
+## NexAuth
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [Integrations](basics/integrations.md)
+* [Home](nexauth/Home.md)
+* [Quick Start](nexauth/QUICK_START.md)
+* [README](nexauth/README.md)
+* [Architecture](nexauth/ARCHITECTURE.md)
+* [Configuration](nexauth/CONFIGURATION.md)
+* [User Guide](nexauth/USER_GUIDE.md)
+* [Developer Guide](nexauth/DEVELOPER_GUIDE.md)
+* [API Reference](nexauth/API_REFERENCE.md)
