@@ -16,13 +16,13 @@ layout:
     visible: true
 ---
 
-# Welcome to xreatLabs
+# Welcome to Xreatlabs
 
-Welcome to the official **xreatLabs** documentation hub! Here you'll find comprehensive guides, API references, and resources for all our projects.
+Welcome to the official **Xreatlabs** documentation hub! Here you'll find comprehensive guides, API references, and resources for all our projects.
 
 ## Our Projects
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>:shield: NexAuth</strong></td><td>Advanced authentication system with seamless integration</td><td></td><td></td><td></td><td><a href="nexauth/Home.md">Home.md</a></td></tr><tr><td><strong>:robot: XDiscordUltimate</strong></td><td>Feature-rich Discord bot framework with modular architecture</td><td></td><td></td><td></td><td><a href="XDiscordUltimate/README.md">README.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>🛡️ NexAuth</strong></td><td>Advanced authentication system with seamless integration</td><td></td><td></td><td></td><td><a href="nexauth/Home.md">Home.md</a></td></tr><tr><td><strong>🤖 XDiscordUltimate</strong></td><td>Feature-rich Discord bot framework with modular architecture</td><td></td><td></td><td></td><td><a href="XDiscordUltimate/README.md">README.md</a></td></tr></tbody></table>
 
 ## Quick Links
 
@@ -36,8 +36,8 @@ Welcome to the official **xreatLabs** documentation hub! Here you'll find compre
 ---
 
 <details>
-<summary>About xreatLabs</summary>
+<summary>About Xreatlabs</summary>
 
-xreatLabs is dedicated to building powerful, developer-friendly tools and services. Our projects focus on security, scalability, and ease of use.
+Xreatlabs is dedicated to building powerful, developer-friendly tools and services. Our projects focus on security, scalability, and ease of use.
 
 </details>
